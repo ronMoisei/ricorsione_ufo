@@ -1,5 +1,5 @@
 import flet as ft
-from UI.view import View
+from UI import View
 from model.modello import Model
 
 
